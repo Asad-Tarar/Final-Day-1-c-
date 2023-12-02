@@ -14,7 +14,7 @@ int main() {
     cout << "Enter the last name: ";
     cin >> lastName;
 
-    // Display the full name
+    // Display the full name (Tarar)
     cout << "Full name: " << firstName << " " << lastName << endl;
 
     return 0;
